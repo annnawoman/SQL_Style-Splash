@@ -15,6 +15,10 @@ The Style-Splash database SQL project is  designed to handle the operations of a
   - `queries.sql`
  
 ## How to Use
-1. Clone the repository.
-2. Run the `SQL Scripts`
+Clone the repository.
+2. Run the `Create Database.sql` script to create the database.
+3. Run the `Insert Tables.sql` script to create the tables.
+3. Run the `insert_data.sql` script to insert sample data.
+4. Execute the queries in `queries.sql` and `queries1.sql` to interact with the data.
+
 
