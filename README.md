@@ -2,7 +2,7 @@
 Style-Splash database for e-commerce website 
 
 ## Project Description
-The Style-Splash database SQL project is  designed to handle the operations of an online store. This project demonstrates proficiency in designing a relational database, writing complex SQL queries, and performing data manipulation tasks.
+The Style-Splash database SQL project is  designed to handle the operations of an online store. This project demonstrates proficiency in designing a relational database, writing SQL queries, and performing data manipulation tasks.
 
 ## Features
 - SQL scripts for creating tables and inserting sample data
