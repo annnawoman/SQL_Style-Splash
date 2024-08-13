@@ -6,7 +6,7 @@ The Style-Splash database SQL project is  designed to handle the operations of a
 
 ## Features
 - SQL scripts for creating tables and inserting sample data
-- Complex queries to retrieve meaningful insights from the database
+- SQL queries to retrieve meaningful insights from the database
 
 ## Project Structure
 - `sql/`
